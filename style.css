@@ -1,0 +1,43 @@
+body{   
+    text-align: center;
+    background-color: rgba(59, 46, 3, 0.966);
+
+}
+img{
+    width: 30%;
+    border-radius: 50%;
+}
+.menu {
+    position: fixed;
+    background:rgb(121, 89, 4) ;
+    color: brown;
+    width: 100%;
+    margin-top: 1px;
+    top: 0px;
+    z-index: 5;
+    
+   
+}
+
+.links {
+    display: inline;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+    
+}
+#sobre{
+    background-color: rgb(241, 228, 106);
+    font-family: 'Alkalami', cursive;
+    padding: 50px;
+}
+#sobre_legenda{
+    color: white;
+}
